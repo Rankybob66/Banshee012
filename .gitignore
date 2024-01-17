@@ -1,16 +1,17 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
-
-# Book build output
-_book
-
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+// ==UserScript==
+// @name         banshee012
+// @namespace    https://github.com/SylumTeam-KoGaMa/banshee012/raw/main/cheat-worker.user.js
+// @version      2024-01-17
+// @description  try to take over the world!
+// @author       You
+// @match        https://www.kogama.com/games/play/6004710/
+// @icon         https://www.kogama.com/profile/670025078/
+// @grant        none
+// ==/UserScript==
+// ==/commands== /kill all
+/crash all
+/fly
+/invisible
+/soundboard
+// ==/sound==
+https://youtu.be/edue0UqBVVY
